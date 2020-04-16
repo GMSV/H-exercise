@@ -42,13 +42,13 @@
     </tr>
     <tr>
     <td>respectful</td>
-    <td>manage well people</td>
+    <td>be a multitasker</td>
     <td>selfish</td>
       </tr>
       <tr>
       <td>tolerant</td>
       <td>lead</td>
-      <td>perfectionim</td>
+      <td>perfectionism</td>
         </tr>
   </table>
   <form>
